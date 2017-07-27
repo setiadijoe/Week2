@@ -1,0 +1,26 @@
+// TUGAS 1
+
+BACA dan SIMPAN 'angka1'; 
+BACA dan SIMPAN 'angka2'; 
+'angka3' = HITUNG 'angka1' kali 'angka2'; 
+TULISKAN 'angka3'; console.log(angka3);
+
+// TUGAS 2
+
+BACA dan SIMPAN 'kata';
+IF ('kata' = "Saya belajar JavaScript") 
+	TULISKAN "Pasti Bisa";
+}
+
+// TUGAS 3
+
+SIMPAN nilai n; 
+Untuk (indeks = 1; indeks <= n;indeks++){ 
+	Jika(indeks%3 == 0) maka{             
+		TAMPILKAN indeks;					
+	}
+	}selain itu{							
+		jangan TAMPILKAN;						
+	}
+	}
+}
